@@ -1,7 +1,7 @@
 .theme-dark,
 .theme-light {
     --code-background: var(--background-secondary);
-    --code-white: #cfc9c2;
+    --code-white: #eb0000;
     --code-red: #f7768e;
     --code-green: #9ece6a;
     --code-aqua: #7dcfff;
